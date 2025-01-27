@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -33,11 +33,12 @@
 
 ### The Equation of Best Fitted Line is:
 
-$ cnt = 0.2 + 0.23 \times yr - 0.06 \times holiday + 0.04 \times workingday + 0.57 \times temp - 0.17 \times hum - 0.19 \times windspeed + 0.08 \times season\_summer + 0.13 \times season\_winter - 0.04 \times mnth\_january - 0.04 \times mnth\_july + 0.09 \times mnth\_september + 0.05 \times weekday\_saturday - 0.24 \times weathersit\_light\_snow\_rain - 0.05 \times weathersit\_mist\_cloudy $
+**cnt** = 0.2 + 0.23 x yr − 0.06 x holiday + 0.04 x workingday + 0.57 x temp − 0.17 x hum − 0.19 x windspeed + 0.08 x season_summer + 0.13 x season_winter − 0.04 x mnth_january − 0.04 x mnth_july + 0.09 x mnth_september + 0.05 x weekday_saturday − 0.24 x weathersit_light_snow_rain − 0.05 x weathersit_mist_cloudy
 
----
 
-- **R-squared value**: 0.81  
+
+- **R-squared value**: 0.81
+- **Adjusted R-squared value**: 0.79 
 - **RMSE value**: 0.1  
 
 The model is a good fit for the data.
