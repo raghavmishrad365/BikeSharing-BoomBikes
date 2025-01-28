@@ -30,6 +30,7 @@
 9. The company should focus on increasing the demand for shared bikes during high temperature as it has a high coefficient value.
 10. The company should focus on increasing the demand for shared bikes during light_snow_rain weather as it has a high coefficient value.
 
+The company should focus on increasing the demand for shared bikes during the fall season, clear_partly_cloudy weather, friday, august, year 2019, high temperature and light_snow_rain weather.
 
 ### The Equation of Best Fitted Line is:
 
